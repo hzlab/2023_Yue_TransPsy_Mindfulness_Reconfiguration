@@ -10,7 +10,7 @@
 
 `lme_permutations.m` is used to create null distributions using permutations for time effects and group x time interactions.
 
-`lm_analyses.m` is used to obtain associations (from linear models) between changes in FC similarity and behavioral measures after intervention.
+`lm_associations.m` is used to obtain associations (from linear models) between changes in FC similarity and behavioral measures after intervention.
 
 `lm_permutations.m` is used to create null distributions using permutations for associations.
 
