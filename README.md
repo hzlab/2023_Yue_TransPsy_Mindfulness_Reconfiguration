@@ -1,9 +1,9 @@
-# 2022_Yue_Mindfulness_Reconfiguration_TransPsy
+# Mindfulness-based therapy improves brain functional network reconfiguration efficiency
 
-Reference
->Reference to be added
+## Reference
+>Yue, W.L., Ng, K.K., Koh, A.J.K., Perini, F., Doshi, K., Zhou, J.H., & Lim, J. (2023). Mindfulness-based therapy improves brain functional network reconfiguration efficiency. Translational Psychiatry.
 
-
+## Usage
 `FC_simlarity.m` is used to derive FC similarity between rest and task.
 
 `lme_analyses.m` is used to obtain time effects and group x time interactions (from linear mixed models) for FC similarity and behavioral measures.
